@@ -7,7 +7,7 @@ public:
 	~Simul() {}
 };
 
-void main() {
+int main() {
 	Simul* app = new Simul();
 	app->Run();
 	delete app;
