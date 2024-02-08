@@ -1,5 +1,3 @@
 #pragma once
 
-namespace Nyxy {
-	__declspec(dllexport) void HelloWorld();
-}
+#include "Core/Application.h"
