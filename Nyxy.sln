@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nyxy", "Nyxy\Nyxy.vcxproj", "{A019191C-19EE-4390-938B-D22DED2164DD}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simul", "Simul\Simul.vcxproj", "{9F08AB4C-519F-4210-821C-2F787FB756CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nyxy", "Nyxy\Nyxy.vcxproj", "{A019191C-19EE-4390-938B-D22DED2164DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
