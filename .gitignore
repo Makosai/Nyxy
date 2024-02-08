@@ -31,6 +31,10 @@
 *.out
 *.app
 
+################## CUSTOM
+/bin
+/bin-int
+
 ################## GITHUB TEMPLATE
 
 ## Ignore Visual Studio temporary files, build results, and
