@@ -10,4 +10,7 @@ namespace Nyxy {
 
 		void Run();
 	};
+
+	// Define in the GAME
+	Application* CreateApplication();
 }

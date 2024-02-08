@@ -9,9 +9,7 @@ public:
 	~Simul() {}
 };
 
-int main() {
+Nyxy::Application* Nyxy::CreateApplication() {
 	printf("Welcome to Simul!");
-	Simul* app = new Simul();
-	app->Run();
-	delete app;
+	return new Simul();
 }
