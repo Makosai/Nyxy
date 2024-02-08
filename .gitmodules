@@ -1,0 +1,3 @@
+[submodule "Nyxy/vendor/spdlog"]
+	path = Nyxy/vendor/spdlog
+	url = git@github.com:gabime/spdlog.git
