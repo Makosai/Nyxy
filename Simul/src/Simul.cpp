@@ -1,5 +1,7 @@
 #include <Nyxy.h>
 
+#include <stdio.h>
+
 class Simul : public Nyxy::Application {
 public:
 	Simul() {}
@@ -8,6 +10,7 @@ public:
 };
 
 int main() {
+	printf("Welcome to Simul!");
 	Simul* app = new Simul();
 	app->Run();
 	delete app;
