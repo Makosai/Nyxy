@@ -68,7 +68,7 @@ project "Simul"
 		"%{prj.name}/src/**.h",
 		"%{prj.name}/src/**.cpp"
 	}
-	`
+
 	includedirs
 	{
 		"Nyxy/vendor/spdlog/include",
